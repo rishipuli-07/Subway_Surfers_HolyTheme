@@ -68,18 +68,12 @@ Typical endless runner mechanics include:
 
 ## How to Run the Project
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Youkaku-1/SubwaySurfersInspiredGame.git
-```
-
+1. download the Zip file
 2. Open Unity Hub.
 3. Click **Add project from disk**.
-4. Select the cloned project folder.
-5. Open the project using the Unity version used by the team.
-6. Wait for Unity to import assets and packages.
-7. Open the main scene from:
+4. Open the project using the Unity version used by the team.
+5. Wait for Unity to import assets and packages.
+6. Open the main scene from:
 
 ```text
 Assets/Scenes/
@@ -97,25 +91,6 @@ The exact controls depend on the input setup, but a typical setup is:
 | Move Right | D or Right Arrow |
 | Jump | Space |
 | Pause/Menu | Esc |
-
-If the project uses mobile input, replace this section with:
-
-| Action | Mobile Control |
-|---|---|
-| Move Left | Swipe Left |
-| Move Right | Swipe Right |
-| Jump | Swipe Up |
-| Slide | Swipe Down |
-
-## Screenshots
-
-Add screenshots here:
-
-```md
-![Main Menu](Screenshots/main-menu.png)
-![Gameplay](Screenshots/gameplay.png)
-![Obstacle Avoidance](Screenshots/obstacles.png)
-```
 
 ## Learning Outcomes
 
@@ -144,7 +119,3 @@ This project demonstrates:
 ## Team
 
 Created as a Unity game development project.
-
-## License
-
-This project is for educational purposes.
